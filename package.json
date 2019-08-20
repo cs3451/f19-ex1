@@ -1,0 +1,16 @@
+{
+  "name": "a0",
+  "version": "1.0.0",
+  "description": "Sample for Assignment 0, CS3451, Fall 2019",
+  "main": "js/app.js",
+  "dependencies": {},
+  "devDependencies": {
+    "https-localhost": "^4.1.3",
+    "typescript": "^3.5.3"
+  },
+  "scripts": {
+    "serve": "PORT=8000 ./node_modules/https-localhost/index.js"
+  },
+  "author": "Blair MacIntyre <blair@cc.gatech.edu>",
+  "license": "CC BY-SA 4.0"
+}

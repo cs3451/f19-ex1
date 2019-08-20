@@ -1,0 +1,12 @@
+#drawing { 
+	text-align: center;
+	background-color: lightgray; 
+}
+
+canvas {
+	border:1px solid black; 
+}
+
+#main {
+	margin: auto;
+}

@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+        "module": "ES2015",
+        "target": "ES2017",
+		"strict": true,		
+		"noImplicitAny": true,
+		"preserveConstEnums":true,
+		"outDir": "js",
+		"sourceMap": true,
+		"watch": false
+	},
+	"files": [
+		"src/app.ts"
+	]
+}
